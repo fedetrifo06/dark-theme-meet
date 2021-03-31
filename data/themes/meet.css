@@ -1,0 +1,91 @@
+/*
+*************************************************************************************************************************************
+(    Name:                      Dark Mode Google Meet                                                                               )
+(    Description:               Change the css of the page allowing the color change from light to dark of the page                 )
+(    Developer:                 FedeTrifo06                                                                                         )
+(    Last Update:               31/3/2021                                                                                           )
+(    Version:                   1.8                                                                                                 )
+(    License:                   All Rights Reserved                                                                                 )
+*************************************************************************************************************************************
+*/
+
+/*Dark Gray*/
+.Tm6Ibc, .ss8zv, .weI93b, .Xpwrdc, .g3VIld, .Bs3rEf, .rG0ybd, .TZFSLb, .JPdR6b, .mtr0Je, .OHZKt, .ncFHed, .JbDE9c, .NzPR9b, .HhsXW, .ZHdB2e, .LsDE5, .fSW6Ze, .ZHdB2e .kaAt2, .vvTMTb, .Rg6gpd, .AC73me, .WJbyNb, .__gmgv-button > div, .NVUqMb, .ZdDOgd, .Y5sE8d.RDPZE, .YhQJj.RDPZE, .UQuaGc.RDPZE, .i9lrp, .VdLOD, .ox9SMb, .MaqJqd, .N1zGnc, .KQZr0e .snByac, .qx56Dd .OvyUed, .p062Qe, .Bor2Dd, .q6oraf .VfPpkd-rymPhb, .q6oraf .VfPpkd-rymPhb, .q6oraf, .acuQXc, .hZ3uGe.KKjvXb:not(:disabled).LjDxcd:hover:not(:disabled), .hZ3uGe.KKjvXb:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe.KKjvXb:not(:disabled), z80M1.qs41qe, .duTsYc, .EDnbAc, .DYLA1c, .hjLZMe, .clMRcc, .ZDU1Ae, .RWK2Je, .CYZUZd, .KkdCid, .DO5H3e, .XfeBDf:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc, .xx5ROc, .Ta1Npb:not(.GDqYkf) {
+    background: #252828;
+    background-color: #252828;
+}
+/*Dark Gray*/
+.Tm6Ibc, .ss8zv, .weI93b, .Xpwrdc, .g3VIld, .Bs3rEf, .rG0ybd, .TZFSLb, .JPdR6b, .mtr0Je, .OHZKt, .ncFHed, .JbDE9c, .NzPR9b, .HhsXW, .ZHdB2e, .LsDE5, .fSW6Ze, .ZHdB2e .kaAt2, .vvTMTb, .Rg6gpd, .AC73me, .WJbyNb, .__gmgv-button > div, .NVUqMb, .ZdDOgd, .Y5sE8d.RDPZE, .YhQJj.RDPZE, .UQuaGc.RDPZE, .i9lrp, .VdLOD, .ox9SMb, .MaqJqd, .N1zGnc, .KQZr0e .snByac, .qx56Dd .OvyUed, .p062Qe, .Bor2Dd, .q6oraf .VfPpkd-rymPhb, .q6oraf .VfPpkd-rymPhb, .q6oraf, .acuQXc {
+    border-color: #252828;
+}
+/*White*/
+    .lj7mN, .ss8zv, .vyX3Be, .CTmqKd, .Xpwrdc, .poFWNe, .Jyj1Td, .Yi3Cfd, .KD4eUb, .DLjNp.LlMNQd .Kx3qp, .Ue6DPb, .aQIrCf, .BHeiFf .snByac, .GsqdZ, .EVe89b, .mYl7qd, .c4Ysi, .iI9wC, .QuP9wb .qRUolc, .p0nv6d, .U9X0yc, .D6kPY, .oYGn2e, .tovz2b, .c7fp5b, .o9fq9d, .YhIwSc, .SX67K, .CIYi0d .jO7h3c, .mtr0Je, .AKhouc, .dOPgd, .ArJ2Te, .zxUmjc, .tuQMTc, .z80M1, .GN4RFc, .Mgmvtd, .YAwx2e .zHQkBf, .CO1lLb, .j86Yv, .xaUx0b, .PNenzf, .PbnGhe, .ZiTobc, .giZTad, .JbDE9c, .AIsPld, .hRmCye, .HEUhi.vLRPrf .ibrYW, .foXzLb, .cU0hbd .K74C9e, .cU0hbd .D0baBe, .cS7aqe, .ltBsPc, .YTbUzc, .MuzmKe, .oIy2qc, .XnKlKd .tL9Q4c, .DQxc2, .W491fd, .gHs9Xb, .ZJUcv, .ePyJSd, .JNV5ye, .azvSCf, .mOceYd, .RKRJx .snByac, .RSJo4e .zHQkBf, .lJXP5c:not(.gpC7Hd) .RKRJx.u3bW4e .snByac, .hElvrb, .HsUjNd, .UQuaGc.RDPZE, .AC73me, .NVUqMb, .ZdDOgd, .RoFGbb, .ktANpb, .Nj6Nq, .CRFCdf, .mT54Ub, .dHFSie, .cMgZMe, .IX3aCe, .PLR4if, .whsOnd, .ndJi5d, .Pujlue, .eOemc, .ox9SMb, .cjq2Db, .fSW6Ze .Jvi93, .fSW6Ze .Jvi93 .bkbMM, .__gmgv-button > div label:not(.disabled), .c83xBb, .R63QZe, .u7TYad, .N1zGnc, .KQZr0e .snByac, .qx56Dd .OvyUed, .L7osyb, .psX1bc, .Bor2Dd, .zQTmif, .rH9mRb, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-M1Soyc, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-TvZj5c-OWXEXe-UbuQg, .c5VCdf, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd, .gb_sa svg, .gb_Fc svg, .gb_8c .gb_ke, .gb_Rc .gb_ke, .google-material-icons, .cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd::placeholder, .gb_ta svg, .gb_Fc svg, .gb_2c .gb_he, .gb_Rc .gb_he, .bpZLge, .q6oraf .VfPpkd-rymPhb, .acuQXc, .Hayy8b, .IhZkic, .gb_F, .LjDxcd:active:not(:disabled), .LjDxcd:focus:not(:disabled), .LjDxcd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled), .DX090c, .Uat4z .cIGbvc, .pKGwOc, .l1jYx, .MpY5pe, .UNoX6b, .inWicd, .xrM4pf, .YysZRb, .rABsFf, .zW4Hye, .Wrzqsf, .W5uYPc, .Yg8yCd, .RRSQQe, .MslXUd .qRUolc, .RKkqi, .JiQUic, .E5wxQe .snByac, .Jaex3d, .PK2ABb .oJeWuf, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) + .VfPpkd-fmcmS-yrriRe-W0vJo-RWgCYc .VfPpkd-fmcmS-yrriRe-W0vJo-fmcmS, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-yrriRe-JZnCve-gmhCAd, .VfPpkd-fmcmS-yrriRe:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) + .VfPpkd-fmcmS-yrriRe-W0vJo-RWgCYc .VfPpkd-fmcmS-yrriRe-JZnCve-gmhCAd, .fmqdrc:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc, .v1pyg, .gb_qa svg, .gb_Bc svg, .gb_Xc .gb_6d, .gb_Nc .gb_6d, .hZ3uGe.eP0LCc.KKjvXb:not(:disabled) .VfPpkd-kBDsod, .hZ3uGe.eP0LCc.KKjvXb:not(:disabled), .MocG8c.DEh1R, .clMRcc, .KshDhe, .cKqbpc, .ReCbLb.VfPpkd-O1htCb-OWXEXe-OWB6Me .VfPpkd-cTi5dd, .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-uusGie-fmcmS, .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-t08AT-Bz112c, .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc, .ZDU1Ae, .vdySc .oJeWuf, .DwIq5e, .ADivge.vLRPrf .pUTHKf, .mKBhCf, .ll0Ame, .wFLcYb, .vplCZe, .q80A9d, .sH2ysf, .H5bh5b {
+        color: #ffffff
+    }
+/*Dark Gray*/
+.sIR20d {
+    border-color: #313434;
+}
+/*White*/
+.fKz7Od, .A00RE .uJNmj .bkbMM, .hl2lZe, .R0yd5c .cIGbvc {
+    fill: #ffffff
+}
+/*Meet Green*/
+.MocG8c {
+    color: #00796b
+}
+/*Black*/
+.p2ZbV.zKHdkd, .z80M1.FwR7Pc, .GN4RFc, .YAwx2e .oJeWuf, .QMKoTb, .PWKRsc, .qrB73e, .Pujlue, .zQTmif, .gb_0d, .gb_ta .gb_Vd.gb_4d.gb_5d, .gb_sa, .gb_qa .gb_Kd.gb_Sd.gb_Td, .KC1dQ {
+    background: #000
+}
+/*Dark Filter*/
+.cCXUBb, .cpj5f {
+    filter: invert(95%) grayscale(100%);
+}
+/*White*/
+.e2CuFe, .ybOdnf .eU809d {
+    border-color: #ffffff transparent;
+}
+/*-Dark Gray*/
+.ncFHed .MocG8c.KKjvXb {
+    background: #283131
+}
+/*Black*/
+.uHMk6b {
+    border: #000000
+}
+/*Dark Gray*/
+.Bx7THd.PBWx0c .ZHdB2e .ZjAUM {
+    border-bottom: 1px solid #252828;
+}
+/*-Dark Gray*/
+.fSW6Ze {
+    border-bottom: 1px solid #293232;
+    border-top: 1px solid #293232;
+}
+/*Dark Meet Logo*/
+.u7qdSd, .OAburf .bBcNob, img.gb_ua, img.gb_va {
+    filter: invert(100%) hue-rotate(177.2deg) brightness(69.8%)
+}
+/*Border Top*/
+/* {
+    border-top: 1px solid #5f6368;
+}*/
+
+/*Border Bottom White*/
+.iEaezd {
+    border-bottom-color: #fff;
+}
+
+/*Dark Gray*/
+
+/*Transparent*/
+.hZ3uGe.eP0LCc.KKjvXb:not(:disabled) {
+background: #00000000;
+background-color: #00000000;
+}
+
+/*Black*/
+/*.KC1dQ {
+    box-shadow: #000000
+}*/
